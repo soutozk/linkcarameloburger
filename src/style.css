@@ -112,7 +112,7 @@ body {
       rgba(24, 24, 24, 0.7),
       rgba(17, 17, 17, 0.801)
     ),
-    url("/Carameloburguerlink/assets/fundo.jpeg");
+    url("/assets/fundo.jpeg");
   background-size: cover;
   background-position: center;
 }
